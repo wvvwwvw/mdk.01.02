@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\Leshan 22is-21\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\student\Desktop\Leshan 22is-21\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\student\Desktop\Leshan 22is-21\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\student\Desktop\Leshan 22is-21\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Leshan 22is-21\MathQuiz\obj\Debug\MathQuiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Leshan 22is-21\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\student\Desktop\Leshan 22is-21\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\student\Desktop\Leshan 22is-21\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Leshan 22is-21\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Leshan 22is-21\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\student\Desktop\Leshan 22is-21\MathQuiz\obj\Debug\MathQuiz.pdb
