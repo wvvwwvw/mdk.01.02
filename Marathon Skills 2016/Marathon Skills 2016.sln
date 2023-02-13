@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marathon Skills 2016", "Marathon Skills 2016.csproj", "{8B341F35-9CF6-4585-BF13-CE6EB6F27D0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B341F35-9CF6-4585-BF13-CE6EB6F27D0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B341F35-9CF6-4585-BF13-CE6EB6F27D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B341F35-9CF6-4585-BF13-CE6EB6F27D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B341F35-9CF6-4585-BF13-CE6EB6F27D0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10F36C08-AAEC-4DC5-88A5-BFC3399B21EF}
+	EndGlobalSection
+EndGlobal
